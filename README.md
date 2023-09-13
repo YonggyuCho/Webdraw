@@ -5,4 +5,4 @@
 
 Frontend Framework : Vue.js
 
-Backend Framework : Django
+Backend Framework : Django 
